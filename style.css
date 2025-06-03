@@ -1,0 +1,191 @@
+*{
+    margin:0;
+    padding:5px;
+    box-sizing: border-box;
+    font-family: "Cal Sans", serif;
+}
+.nav-item{
+    padding-right:30px;
+    font-size: medium;
+    text-transform: uppercase;
+    color:#FEFFFF;
+}
+.nav-link:hover{
+    color: white;
+    box-sizing: unset;
+    background-color: #0d47a1;
+    border: transparent;
+}
+.nav-:hover
+.navbar-brand{
+    color:#3AAFA9
+ ;
+}
+.Heading{
+    font-size:3em;
+    width: 900px;
+    color:#0a4275;
+}
+.p-Head{
+    font-size: 2rem;
+}
+.Heading1{
+    margin: 0px;
+    text-align: center;
+    padding-left: 400px;
+    font-size: 5rem;
+}
+.Heading2{
+    margin: 0px;
+    text-align: center;
+    padding-left: 400px;
+    font-size: 5rem;
+}
+/* ARABIC LANGUAGE */
+.image1arabic{
+    width: 20%;
+}
+.image2arabic{
+    width: 18%;
+}
+.image3arabic{
+    width:22%;
+}
+.image4arabic{
+    width: 20%;
+}
+.image5arabic{
+    width: 18%;
+}
+/* PERSIAN LANGUAGE */
+.image1persian{
+    width: 16%;
+}
+.image3persian{
+    width: 18%;
+    padding-left: 100px;
+}
+.image4persian{
+    width: 21%;
+    padding-left: 100px;
+}
+.image5persian{
+    width: 25%;
+}
+/* CHINESS LANGUAGE */
+.image1chiness{
+    width: 20%;
+    padding: auto;
+}
+.image2chiness{
+    width: 20%;
+    padding: auto;
+
+}
+.image3chiness{
+    width: 18.5%;
+    padding: auto;
+}
+.image4chiness{
+    width: 17%;
+    padding: auto;
+}
+.image5chiness{
+    width: 22%;
+    padding: auto;
+}
+/* INDIC LANGUAGE */
+.image1indic{
+    width: 18%;
+    padding: auto;
+}.image2indic{
+    width: 20%;
+    padding: auto;
+}.image3indic{
+    width: 20%;
+    padding: auto;
+}.image4indic{
+    width: 20%;
+    padding: auto;
+}.image5indic{
+    width: 20%;
+    padding: auto;
+}
+.abouttext{
+    color: black;
+    text-align: center;
+    padding-left: 400px;
+    font-size: x-large;
+}
+.headingAbout{
+    text-align: center;
+}
+.categarietext{
+       color: black;
+    text-align: center;
+    padding-left: 400px;
+    font-size: xx-large;
+}
+.text2{
+    color: black;
+   font-size: 23px;
+   text-align: center;
+   padding-left: 400px;
+}
+.text3{
+    color: black;
+   font-size: 23px;
+   padding-bottom: 70px;
+   text-align: center;
+   padding-left: 400px;
+}
+.info{
+    font-size:5em;
+    width: 900px;
+    color:#0a4275;
+    text-align: center;
+   padding-left: 400px;    
+}
+.text4{
+      color: black;
+   font-size: 20px;
+  text-align: center;
+   padding-left: 400px;
+}
+#id1{
+padding-bottom: 100px;
+}
+#location-status{
+    text-align: center;
+    font-size: xx-large;
+    color: black;
+}
+.contact{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    padding-left: 400px;
+}
+#btn{
+    text-transform: uppercase;
+    text-decoration-line: line-through;
+    text-overflow: ellipsis;
+    transition: color 500ms;
+    display:justify;
+}
+#btn:hover{
+    color: #FEFFFF ;
+    border-color:white;
+   transform-style: flat;
+}
+  #foam{
+    padding-bottom: 100px;
+  }
+  .banner{
+    background-image: initial;
+  }
+  .logo{
+    box-sizing: border-box;
+    block-size: 120px;
+    padding: auto;
+  }
